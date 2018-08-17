@@ -1,5 +1,5 @@
-## BASE version: updated 17 Aug 2018 20:51 MYT
-## improved the selection by incorporating week1 points and now_cost
+## ENHANCED version. updated 17 Aug 2018 20:51 MYT
+## improved the selection by incorporating week1 points and now_cost, weighted with ICT
 
 rm(list=ls())
 
@@ -27,15 +27,17 @@ player_df_wk1$team = team_name_wk1$short_name[match(player_df_wk1$team, team_nam
 ## Merge week1 key data into main df ###############################################################
 # Merge now_cost into week0 player database
 # Mutate ICT_mult, a multiplier/weightage for ICT. Subject to scale 1.00 to 1.15
-player_df = merge(player_df,
-                  player_df_wk1[,c("web_name","status","now_cost","total_points","element_type")],
+player_df = merge(player_df, 
+                  player_df_wk1[,c("web_name","status","now_cost","total_points","ict_index","element_type")],
                   by.x=c("Name","Position"),
                   by.y=c("web_name", "element_type"),
                   all.y=TRUE)
 gameweek  = fromJSON("https://fantasy.premierleague.com/drf/element-summary/1")$fixtures_summary[1,3]
 gameweek  = (gameweek %>% strsplit(" ") %>% unlist())[2] %>% as.numeric()
 player_df = mutate(player_df, 
-                   ObjPoints = (38-gameweek)/38*Points + gameweek/38*total_points)
+                   ICT_mult0 = rescale(ICT, to=c(1.00,1.15)),
+                   ICT_mult1 = rescale(as.numeric(ict_index), to=c(1.00,1.15)),
+                   ObjPoints = (38-gameweek)/38*Points*ICT_mult0 + gameweek/38*total_points*ICT_mult1)
 player_df = player_df[player_df$status=="a",]   # subset to only non-injured player
 
 ## Initialise LP model #############################################################################
@@ -48,19 +50,19 @@ set.type(lprec, seq(1,decVarNo), type = "binary")
 ## Set LP model objective function #################################################################
 # Objective, by default, is to maximise player modified total points. This can be changed to ICT or 
 # other performance/index past few games
-decVar = player_df$Points
+decVar = player_df$ObjPoints
 set.objfn(lprec, decVar)
 
 ## Set LP model constraints ########################################################################
-# For Base, formation is set for 4-4-2. Hence total team is GKP==2, DEF==5, MID==5 and FWD==3.
+# For Enhanced, formation is set for 3-4-3. Hence total team is GKP==2, DEF==4, MID==5 and FWD==4.
 # Total of 15
 add.constraint(lprec, as.numeric(player_df$Position=="GKP"), type="=", 2)
-add.constraint(lprec, as.numeric(player_df$Position=="DEF"), type="=", 5)
+add.constraint(lprec, as.numeric(player_df$Position=="DEF"), type="=", 4)
 add.constraint(lprec, as.numeric(player_df$Position=="MID"), type="=", 5)
-add.constraint(lprec, as.numeric(player_df$Position=="FWD"), type="=", 3)
-# no more than 3 from the same club
+add.constraint(lprec, as.numeric(player_df$Position=="FWD"), type="=", 4)
+# no more than 2 from the same club. this is constrained further for diversification
 for (i in unique(player_df$Team)) {
-  add.constraint(lprec, as.numeric(player_df$Team==i), type="<=", 3)
+  add.constraint(lprec, as.numeric(player_df$Team==i), type="<=", 2)
 }
 # constraint for cost must be less than 1000 or so. we use current cost of week1.
 add.constraint(lprec, player_df$now_cost, type="<=", rhs=1000)
