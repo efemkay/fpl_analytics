@@ -54,12 +54,12 @@ decVar = player_df$ObjPoints
 set.objfn(lprec, decVar)
 
 ## Set LP model constraints ########################################################################
-# For Enhanced, formation is set for 3-4-3. Hence total team is GKP==2, DEF==4, MID==5 and FWD==4.
+# For Enhanced, formation is set for 4-4-2. Hence total team is GKP==2, DEF==5, MID==5 and FWD==3.
 # Total of 15
 add.constraint(lprec, as.numeric(player_df$Position=="GKP"), type="=", 2)
-add.constraint(lprec, as.numeric(player_df$Position=="DEF"), type="=", 4)
+add.constraint(lprec, as.numeric(player_df$Position=="DEF"), type="=", 5)
 add.constraint(lprec, as.numeric(player_df$Position=="MID"), type="=", 5)
-add.constraint(lprec, as.numeric(player_df$Position=="FWD"), type="=", 4)
+add.constraint(lprec, as.numeric(player_df$Position=="FWD"), type="=", 3)
 # no more than 2 from the same club. this is constrained further for diversification
 for (i in unique(player_df$Team)) {
   add.constraint(lprec, as.numeric(player_df$Team==i), type="<=", 2)
@@ -93,3 +93,5 @@ chosen_rsv = mutate(chosen_rsv, squad="reserves")
 chosen_df  = rbind(chosen_11s, chosen_rsv) %>% mutate(squad_no=seq(1,15,1))
 
 rm(list=c("i", "team_name_wk1", "player_pos_wk1", "chosen_11s", "chosen_rsv"))
+
+write.csv(chosen_df, file="./Output/faizmk_enhanced_team.csv")
