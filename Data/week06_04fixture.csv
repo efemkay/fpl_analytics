@@ -1,0 +1,539 @@
+"player_id","web_name","first_name","second_name","id","kickoff_time_formatted","event_name","opponent_name","opponent_short_name","is_home","difficulty","code","kickoff_time","team_h_score","team_a_score","finished","minutes","provisional_start_time","finished_provisional","event","team_a","team_h"
+1,"Cech","Petr","Cech",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+2,"Leno","Bernd","Leno",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+3,"Koscielny","Laurent","Koscielny",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+4,"Bellerín","Héctor","Bellerín",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+5,"Monreal","Nacho","Monreal",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+6,"Holding","Rob","Holding",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+7,"Mustafi","Shkodran","Mustafi",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+8,"Kolasinac","Sead","Kolasinac",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+9,"Chambers","Calum","Chambers",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+10,"Mavropanos","Konstantinos","Mavropanos",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+11,"Lichtsteiner","Stephan","Lichtsteiner",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+12,"Sokratis","Sokratis","Papastathopoulos",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+13,"Özil","Mesut","Özil",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+14,"Ramsey","Aaron","Ramsey",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+15,"Iwobi","Alex","Iwobi",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+16,"Elneny","Mohamed","Elneny",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+17,"Xhaka","Granit","Xhaka",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+18,"Mkhitaryan","Henrikh","Mkhitaryan",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+19,"Nelson","Reiss","Nelson",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+20,"Maitland-Niles","Ainsley","Maitland-Niles",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+21,"Welbeck","Danny","Welbeck",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+22,"Lacazette","Alexandre","Lacazette",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+23,"Aubameyang","Pierre-Emerick","Aubameyang",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+24,"Begovic","Asmir","Begovic",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+25,"Boruc","Artur","Boruc",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+26,"Francis","Simon","Francis",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+27,"Steve Cook","Steve","Cook",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+28,"Daniels","Charlie","Daniels",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+29,"Adam Smith","Adam","Smith",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+30,"Mings","Tyrone","Mings",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+31,"Aké","Nathan","Aké",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+32,"Simpson","Jack","Simpson",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+33,"Arter","Harry","Arter",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+34,"Pugh","Marc","Pugh",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+35,"Surman","Andrew","Surman",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+36,"Stanislas","Junior","Stanislas",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+37,"Gosling","Dan","Gosling",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+38,"Ibe","Jordon","Ibe",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+39,"Lewis Cook","Lewis","Cook",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+40,"Fraser","Ryan","Fraser",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+41,"Hyndman","Emerson","Hyndman",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+42,"Brooks","David","Brooks",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+43,"Wilson","Callum","Wilson",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+44,"Mousset","Lys","Mousset",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+45,"King","Joshua","King",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+46,"Defoe","Jermain","Defoe",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+47,"Ryan","Mathew","Ryan",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+48,"Dunk","Lewis","Dunk",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+49,"Duffy","Shane","Duffy",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+50,"Bruno","Bruno","Saltor Grau",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+51,"Bong","Gaëtan","Bong",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+52,"Suttner","Markus","Suttner",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+53,"Schelotto","Ezequiel","Schelotto",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+54,"Balogun","Leon","Balogun",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+55,"Knockaert","Anthony","Knockaert",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+56,"Stephens","Dale","Stephens",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+57,"Kayal","Beram","Kayal",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+58,"March","Solomon","March",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+59,"Groß","Pascal","Groß",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+60,"Pröpper","Davy","Pröpper",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+61,"Izquierdo","José Heriberto","Izquierdo Mena",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+62,"Murray","Glenn","Murray",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+63,"Hemed","Tomer","Hemed",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+64,"Baldock","Sam","Baldock",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+65,"Locadia","Jürgen","Locadia",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+66,"Andone","Florin","Andone",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+67,"Heaton","Tom","Heaton",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+68,"Pope","Nick","Pope",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+69,"Lowton","Matthew","Lowton",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+70,"Mee","Ben","Mee",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+71,"Ward","Stephen","Ward",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+72,"Tarkowski","James","Tarkowski",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+73,"Long","Kevin","Long",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+74,"Taylor","Charlie","Taylor",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+75,"Bardsley","Phil","Bardsley",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+76,"Gudmundsson","Johann Berg","Gudmundsson",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+77,"Defour","Steven","Defour",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+78,"Hendrick","Jeff","Hendrick",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+79,"Brady","Robbie","Brady",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+80,"Westwood","Ashley","Westwood",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+81,"Walters","Jonathan","Walters",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+82,"Cork","Jack","Cork",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+83,"Lennon","Aaron","Lennon",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+84,"Vokes","Sam","Vokes",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+85,"Barnes","Ashley","Barnes",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+86,"Wells","Nahki","Wells",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+87,"Wood","Chris","Wood",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+88,"Etheridge","Neil","Etheridge",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+89,"Smithies","Alex","Smithies",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+90,"Morrison","Sean","Morrison",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+91,"Bamba","Sol","Bamba",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+92,"Ecuele Manga","Bruno","Ecuele Manga",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+93,"Connolly","Matthew","Connolly",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+94,"Bennett","Joe","Bennett",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+95,"Peltier","Lee","Peltier",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+96,"Jazz Richards","Ashley Darel Jazz","Richards",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+97,"Halford","Greg","Halford",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+98,"Ralls","Joe","Ralls",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+99,"Hoilett","David Junior","Hoilett",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+100,"Mendez-Laing","Nathaniel","Mendez-Laing",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+101,"Paterson","Callum","Paterson",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+102,"Gunnarsson","Aron","Gunnarsson",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+103,"Pilkington","Anthony","Pilkington",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+104,"Damour","Loïc","Damour",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+105,"Ward","Danny","Ward",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+106,"Murphy","Josh","Murphy",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+107,"Zohore","Kenneth","Zohore",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+108,"Bogle","Omar","Bogle",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+109,"Madine","Gary","Madine",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+110,"Reid","Bobby","Reid",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+111,"Courtois","Thibaut","Courtois",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+112,"Caballero","Willy","Caballero",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+113,"Azpilicueta","César","Azpilicueta",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+114,"Cahill","Gary","Cahill",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+115,"Alonso","Marcos","Alonso",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+116,"David Luiz","David","Luiz Moreira Marinho",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+117,"Moses","Victor","Moses",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+118,"Rüdiger","Antonio","Rüdiger",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+119,"Christensen","Andreas","Christensen",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+120,"Zappacosta","Davide","Zappacosta",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+121,"Emerson","Emerson","Palmieri dos Santos",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+122,"Hazard","Eden","Hazard",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+123,"Fàbregas","Cesc","Fàbregas",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+124,"Willian","Willian","Borges Da Silva",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+125,"Pedro","Pedro","Rodríguez Ledesma",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+126,"Kanté","N'Golo","Kanté",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+127,"Barkley","Ross","Barkley",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+128,"Drinkwater","Daniel","Drinkwater",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+129,"Bakayoko","Tiemoué","Bakayoko",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+130,"Ampadu","Ethan","Ampadu",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+131,"Hudson-Odoi","Callum","Hudson-Odoi",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+132,"Loftus-Cheek","Ruben","Loftus-Cheek",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+133,"Giroud","Olivier","Giroud",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+134,"Morata","Álvaro","Morata",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+135,"Hennessey","Wayne","Hennessey",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+136,"Speroni","Julian","Speroni",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+137,"Guaita","Vicente","Guaita",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+138,"Tomkins","James","Tomkins",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+139,"Dann","Scott","Dann",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+140,"Kelly","Martin","Kelly",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+141,"Schlupp","Jeffrey","Schlupp",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+142,"van Aanholt","Patrick","van Aanholt",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+143,"Sakho","Mamadou","Sakho",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+144,"Riedewald","Jairo","Riedewald",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+145,"Wan-Bissaka","Aaron","Wan-Bissaka",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+146,"Puncheon","Jason","Puncheon",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+147,"McArthur","James","McArthur",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+148,"Sako","Bakary","Sako",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+149,"Townsend","Andros","Townsend",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+150,"Milivojevic","Luka","Milivojevic",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+151,"Zaha","Wilfried","Zaha",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+152,"Benteke","Christian","Benteke",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+153,"Sørloth","Alexander","Sørloth",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+154,"Pickford","Jordan","Pickford",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+155,"Stekelenburg","Maarten","Stekelenburg",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+156,"Baines","Leighton","Baines",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+157,"Coleman","Seamus","Coleman",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+158,"Jagielka","Phil","Jagielka",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+159,"Williams","Ashley","Williams",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+160,"Holgate","Mason","Holgate",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+161,"Kenny","Jonjoe","Kenny",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+162,"Keane","Michael","Keane",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+163,"Martina","Cuco","Martina",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+164,"Walcott","Theo","Walcott",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+165,"Bolasie","Yannick","Bolasie",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+166,"McCarthy","James","McCarthy",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+167,"Schneiderlin","Morgan","Schneiderlin",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+168,"Gueye","Idrissa","Gueye",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+169,"Davies","Tom","Davies",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+170,"Lookman","Ademola","Lookman",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+171,"Klaassen","Davy","Klaassen",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+172,"Sigurdsson","Gylfi","Sigurdsson",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+173,"Vlasic","Nikola","Vlasic",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+174,"Baningime","Beni","Baningime",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+175,"Calvert-Lewin","Dominic","Calvert-Lewin",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+176,"Niasse","Oumar","Niasse",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+177,"Tosun","Cenk","Tosun",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+178,"Bettinelli","Marcus","Bettinelli",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+179,"Button","David","Button",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+180,"Ream","Tim","Ream",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+181,"Odoi","Denis","Odoi",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+182,"Cairney","Tom","Cairney",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+183,"McDonald","Kevin","McDonald",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+184,"Sessegnon","Ryan","Sessegnon",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+185,"Johansen","Stefan","Johansen",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+186,"Ayité","Floyd","Ayité",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+187,"Kebano","Neeskens","Kebano",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+188,"Fonte","Rui Pedro","da Rocha Fonte",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+189,"Kamara","Aboubakar","Kamara",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+190,"Hamer","Ben","Hamer",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+191,"Lössl","Jonas","Lössl",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+192,"Schindler","Christopher","Schindler",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+193,"Löwe","Chris","Löwe",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+194,"Smith","Tommy","Smith",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+195,"Zanka","Mathias","Jorgensen",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+196,"Malone","Scott","Malone",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+197,"Hadergjonaj","Florent","Hadergjonaj",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+198,"Kongolo","Terence","Kongolo",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+199,"Mooy","Aaron","Mooy",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+200,"van La Parra","Rajiv","van La Parra",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+201,"Hogg","Jonathan","Hogg",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+202,"Billing","Philip","Billing",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+203,"Ince","Tom","Ince",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+204,"Williams","Danny","Williams",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+205,"Sabiri","Abdelhamid","Sabiri",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+206,"Pritchard","Alex","Pritchard",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+207,"Sobhi","Ramadan","Sobhi",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+208,"Bacuna","Juninho","Bacuna",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+209,"Quaner","Collin","Quaner",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+210,"Depoitre","Laurent","Depoitre",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+211,"Mounie","Steve","Mounie",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+212,"Kachunga","Elias","Kachunga",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+213,"Schmeichel","Kasper","Schmeichel",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+214,"Jakupovic","Eldin","Jakupovic",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+215,"Morgan","Wes","Morgan",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+216,"Fuchs","Christian","Fuchs",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+217,"Simpson","Danny","Simpson",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+218,"Benalouane","Yohan","Benalouane",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+219,"Chilwell","Benjamin","Chilwell",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+220,"Maguire","Harry","Maguire",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+221,"Pereira","Ricardo Domingos","Barbosa Pereira",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+222,"Evans","Jonny","Evans",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+223,"Mahrez","Riyad","Mahrez",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+224,"Albrighton","Marc","Albrighton",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+225,"Gray","Demarai","Gray",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+226,"Amartey","Daniel","Amartey",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+227,"Ndidi","Wilfred","Ndidi",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+228,"Iborra","Vicente","Iborra",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+229,"James","Matty","James",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+230,"Choudhury","Hamza","Choudhury",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+231,"Silva","Adrien Sebastian","Perruchet Silva",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+232,"Diabaté","Fousseni","Diabaté",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+233,"Maddison","James","Maddison",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+234,"Vardy","Jamie","Vardy",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+235,"Okazaki","Shinji","Okazaki",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+236,"Iheanacho","Kelechi","Iheanacho",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+237,"Mignolet","Simon","Mignolet",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+238,"Karius","Loris","Karius",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+239,"Lovren","Dejan","Lovren",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+240,"Moreno","Alberto","Moreno",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+241,"Clyne","Nathaniel","Clyne",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+242,"Gomez","Joseph","Gomez",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+243,"Matip","Joel","Matip",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+244,"Klavan","Ragnar","Klavan",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+245,"Alexander-Arnold","Trent","Alexander-Arnold",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+246,"van Dijk","Virgil","van Dijk",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+247,"Robertson","Andrew","Robertson",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+248,"Chamberlain","Alex","Oxlade-Chamberlain",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+249,"Henderson","Jordan","Henderson",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+250,"Lallana","Adam","Lallana",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+251,"Mané","Sadio","Mané",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+252,"Wijnaldum","Georginio","Wijnaldum",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+253,"Salah","Mohamed","Salah",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+254,"Milner","James","Milner",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+255,"Fabinho","Fabio Henrique","Tavares",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+256,"Keita","Naby","Keita",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+257,"Firmino","Roberto","Firmino",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+258,"Ings","Danny","Ings",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+259,"Solanke","Dominic","Solanke",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+260,"Ederson","Ederson","Santana de Moraes",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+261,"Bravo","Claudio","Bravo",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+262,"Stones","John","Stones",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+263,"Kompany","Vincent","Kompany",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+264,"Otamendi","Nicolás","Otamendi",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+265,"Walker","Kyle","Walker",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+266,"Danilo","Danilo Luiz","da Silva",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+267,"Mendy","Benjamin","Mendy",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+268,"Laporte","Aymeric","Laporte",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+269,"Delph","Fabian","Delph",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+270,"Sterling","Raheem","Sterling",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+271,"David Silva","David","Silva",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+272,"Fernandinho","Fernando","Luiz Rosa",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+273,"De Bruyne","Kevin","De Bruyne",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+274,"Gündogan","Ilkay","Gündogan",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+275,"Sané","Leroy","Sané",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+276,"Bernardo Silva","Bernardo Mota","Veiga de Carvalho e Silva",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+277,"Foden","Phil","Foden",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+278,"Diaz","Brahim","Diaz",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+279,"Zinchenko","Oleksandr","Zinchenko",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+280,"Agüero","Sergio","Agüero",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+281,"Jesus","Gabriel Fernando","de Jesus",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+282,"De Gea","David","De Gea",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+283,"Romero","Sergio","Romero",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+284,"Smalling","Chris","Smalling",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+285,"Jones","Phil","Jones",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+286,"Shaw","Luke","Shaw",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+287,"Rojo","Marcos","Rojo",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+288,"Valencia","Antonio","Valencia",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+289,"Darmian","Matteo","Darmian",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+290,"Blind","Daley","Blind",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+291,"Bailly","Eric","Bailly",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+292,"Lindelöf","Victor","Lindelöf",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+293,"Young","Ashley","Young",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+294,"Dalot","José Diogo","Dalot Teixeira",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+295,"Sánchez","Alexis","Sánchez",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+296,"Matic","Nemanja","Matic",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+297,"Mata","Juan","Mata",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+298,"Fellaini","Marouane","Fellaini",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+299,"Herrera","Ander","Herrera",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+300,"Lingard","Jesse","Lingard",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+301,"Martial","Anthony","Martial",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+302,"Pogba","Paul","Pogba",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+303,"McTominay","Scott","McTominay",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+304,"Fred","Frederico","Rodrigues de Paula Santos",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+305,"Rashford","Marcus","Rashford",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+306,"Lukaku","Romelu","Lukaku",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+307,"Elliot","Robert","Elliot",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+308,"Darlow","Karl","Darlow",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+309,"Dubravka","Martin","Dubravka",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+310,"Yedlin","DeAndre","Yedlin",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+311,"Clark","Ciaran","Clark",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+312,"Lascelles","Jamaal","Lascelles",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+313,"Dummett","Paul","Dummett",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+314,"Lejeune","Florian","Lejeune",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+315,"Manquillo","Javier","Manquillo",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+316,"Mbemba","Chancel","Mbemba",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+317,"Ritchie","Matt","Ritchie",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+318,"Shelvey","Jonjo","Shelvey",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+319,"Diamé","Mohamed","Diamé",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+320,"Atsu","Christian","Atsu",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+321,"Murphy","Jacob","Murphy",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+322,"Merino","Mikel","Merino",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+323,"Hayden","Isaac","Hayden",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+324,"Ki Sung-yueng","Sung-yueng","Ki",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+325,"Gayle","Dwight","Gayle",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+326,"Pérez","Ayoze","Pérez",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+327,"Joselu","Jose Luis","Mato Sanmartín",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+328,"McCarthy","Alex","McCarthy",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+329,"Forster","Fraser","Forster",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+330,"Bertrand","Ryan","Bertrand",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+331,"Yoshida","Maya","Yoshida",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+332,"Cédric","Cédric","Soares",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+333,"Stephens","Jack","Stephens",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+334,"McQueen","Sam","McQueen",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+335,"Bednarek","Jan","Bednarek",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+336,"Hoedt","Wesley","Hoedt",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+337,"Davis","Steven","Davis",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+338,"Ward-Prowse","James","Ward-Prowse",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+339,"Oriol Romeu","Oriol","Romeu Vidal",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+340,"Højbjerg","Pierre-Emile","Højbjerg",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+341,"Boufal","Sofiane","Boufal",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+342,"Sims","Joshua","Sims",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+343,"Redmond","Nathan","Redmond",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+344,"Lemina","Mario","Lemina",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+345,"Armstrong","Stuart","Armstrong",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+346,"Elyounoussi","Mohamed","Elyounoussi",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+347,"Long","Shane","Long",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+348,"Austin","Charlie","Austin",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+349,"Gabbiadini","Manolo","Gabbiadini",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+350,"Carrillo","Guido","Carrillo",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+351,"Lloris","Hugo","Lloris",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+352,"Vorm","Michel","Vorm",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+353,"Alderweireld","Toby","Alderweireld",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+354,"Rose","Danny","Rose",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+355,"Vertonghen","Jan","Vertonghen",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+356,"Davies","Ben","Davies",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+357,"Trippier","Kieran","Trippier",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+358,"Walker-Peters","Kyle","Walker-Peters",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+359,"Sánchez","Davinson","Sánchez",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+360,"Aurier","Serge","Aurier",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+361,"Dier","Eric","Dier",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+362,"Dembélé","Mousa","Dembélé",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+363,"Lamela","Erik","Lamela",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+364,"Eriksen","Christian","Eriksen",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+365,"Alli","Bamidele","Alli",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+366,"Wanyama","Victor","Wanyama",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+367,"Son","Heung-Min","Son",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+368,"Winks","Harry","Winks",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+369,"Sissoko","Moussa","Sissoko",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+370,"Lucas Moura","Lucas","Rodrigues Moura da Silva",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+371,"Llorente","Fernando","Llorente",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+372,"Kane","Harry","Kane",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+373,"Gomes","Heurelho","Gomes",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+374,"Dahlberg","Pontus","Dahlberg",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+375,"Kaboul","Younes","Kaboul",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+376,"Cathcart","Craig","Cathcart",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+377,"Prödl","Sebastian","Prödl",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+378,"Holebas","José","Holebas",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+379,"Britos","Miguel","Britos",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+380,"Kabasele","Christian","Kabasele",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+381,"Janmaat","Daryl","Janmaat",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+382,"Mariappa","Adrian","Mariappa",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+383,"Kiko Femenía","Francisco","Femenía Far",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+384,"Zeegelaar","Marvin","Zeegelaar",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+385,"Navarro","Marc","Navarro",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+386,"Masina","Adam","Masina",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+387,"Chalobah","Nathaniel","Chalobah",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+388,"Cleverley","Tom","Cleverley",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+389,"Capoue","Etienne","Capoue",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+390,"Doucouré","Abdoulaye","Doucouré",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+391,"Pereyra","Roberto","Pereyra",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+392,"Hughes","Will","Hughes",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+393,"Richarlison","Richarlison","de Andrade",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+394,"Deulofeu","Gerard","Deulofeu",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+395,"Gray","Andre","Gray",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+396,"Deeney","Troy","Deeney",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+397,"Okaka","Stefano","Okaka",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+398,"Sinclair","Jerome","Sinclair",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+399,"Adrián","Adrián","San Miguel del Castillo",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+400,"Fabianski","Lukasz","Fabianski",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+401,"Reid","Winston","Reid",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+402,"Cresswell","Aaron","Cresswell",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+403,"Ogbonna","Angelo","Ogbonna",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+404,"Byram","Sam","Byram",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+405,"Zabaleta","Pablo","Zabaleta",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+406,"Rice","Declan","Rice",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+407,"Oxford","Reece","Oxford",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+408,"Fredericks","Ryan","Fredericks",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+409,"Diop","Issa","Diop",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+410,"Masuaku","Arthur","Masuaku",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+411,"Noble","Mark","Noble",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+412,"Kouyaté","Cheikhou","Kouyaté",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+413,"Obiang","Pedro","Obiang",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+414,"Lanzini","Manuel","Lanzini",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+415,"Antonio","Michail","Antonio",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+416,"Fernandes","Edimilson","Fernandes",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+417,"Arnautovic","Marko","Arnautovic",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+418,"Carroll","Andy","Carroll",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+419,"Chicharito","Javier","Hernández Balcázar",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+420,"Hugill","Jordan","Hugill",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+421,"Ruddy","John","Ruddy",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+422,"Norris","Will","Norris",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+423,"Boly","Willy","Boly",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+424,"Douglas","Barry","Douglas",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+425,"Doherty","Matt","Doherty",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+426,"Saïss","Romain","Saïss",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+427,"Bennett","Ryan","Bennett",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+428,"Batth","Danny","Batth",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+429,"Miranda","Roderick Jefferson","Gonçalves Miranda",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+430,"Coady","Conor","Coady",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+431,"Vinagre","Rúben Gonçalo","Silva Nascimento Vinagre",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+432,"Jota","Diogo","Jota",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+433,"Neves","Rúben Diogo","da Silva Neves",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+434,"Cavaleiro","Ivan","Cavaleiro",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+435,"Costa","Hélder","Costa",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+436,"Enobakhare","Bright","Enobakhare",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+437,"Jiménez","Raúl","Jiménez",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+438,"Bonatini","Bonatini Lohner Maia","Bonatini",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+439,"Steele","Jason","Steele",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+440,"Bernardo","Bernardo","Fernandes da Silva Junior",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+441,"Ward","Joel","Ward",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+442,"Jach","Jaroslaw","Jach",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+443,"Souaré","Pape","Souaré",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+444,"Wickham","Connor","Wickham",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+445,"Foster","Ben","Foster",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+446,"Sema","Ken","Sema",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+447,"Wilshere","Jack","Wilshere",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+448,"Gibbs-White","Morgan","Gibbs-White",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+449,"Mir","Rafa","Mir",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+450,"Torreira","Lucas","Torreira",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+451,"Guendouzi","Matteo","Guendouzi",61,"29 Sep 15:00","Gameweek 7","Watford","WAT",TRUE,3,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+452,"Gunn","Angus","Gunn",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+453,"Yarmolenko","Andriy","Yarmolenko",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+454,"Patrício","Rui Pedro","dos Santos Patrício",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+455,"Le Marchand","Maxime","Le Marchand",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+456,"Seri","Jean Michael","Seri",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+457,"Ward","Danny","Ward",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+458,"Kenedy","Robert Kenedy","Nunes do Nascimento",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+459,"Jorginho","Jorge Luiz","Frello Filho",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+460,"Christie","Cyrus","Christie",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+461,"Durm","Erik","Durm",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+462,"Shaqiri","Xherdan","Shaqiri",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+463,"Vestergaard","Jannik","Vestergaard",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+464,"Balbuena","Fabián","Balbuena",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+465,"Felipe Anderson","Felipe Anderson","Pereira Gomes",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+466,"Bissouma","Yves","Bissouma",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+467,"Cunningham","Greg","Cunninghamm",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+468,"Alisson","Alisson","Ramses Becker",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+469,"Mirallas","Kevin","Mirallas",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+470,"Sandro","Sandro","Ramírez",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+471,"Diakhaby","Adama","Diakhaby",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+472,"Sturridge","Daniel","Sturridge",64,"29 Sep 17:30","Gameweek 7","Chelsea","CHE",FALSE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+473,"Rico","Diego","Rico",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+474,"Fabri","Fabricio","Agosto Ramírez",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+475,"Moutinho","João Filipe Iria","Santos Moutinho",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+476,"Jahanbakhsh","Alireza","Jahanbakhsh",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+477,"Kaikai","Sullay","Kaikai",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+478,"Schürrle","André","Schürrle",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+479,"Targett","Matt","Targett",70,"29 Sep 15:00","Gameweek 7","Wolves","WOL",FALSE,3,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+480,"Mitrovic","Aleksandar","Mitrovic",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+481,"Pereira","Andreas","Pereira",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+482,"Schär","Fabian","Schär",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+483,"Jonny","Jonathan","Castro Otto",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+484,"Digne","Lucas","Digne",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+485,"Lindegaard","Anders","Lindegaard",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+486,"Meyer","Max","Meyer",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+487,"Mawson","Alfie","Mawson",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+488,"Muto","Yoshinori","Muto",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+489,"Snodgrass","Robert","Snodgrass",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+490,"Hart","Joe","Hart",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+491,"Gibson","Ben","Gibson",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+492,"Ghezzal","Rachid","Ghezzal",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+493,"Rondón","Salomón","Rondón",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+494,"Lerma","Jefferson","Lerma",62,"01 Oct 20:00","Gameweek 7","Crystal Palace","CRY",TRUE,2,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+495,"Vydra","Matej","Vydra",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+496,"Abraham","Tammy","Abraham",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+497,"Nkoudou","Georges-Kévin","Nkoudou",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+498,"Kepa","Kepa","Arrizabalaga",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+499,"Kovacic","Mateo","Kovacic",64,"29 Sep 17:30","Gameweek 7","Liverpool","LIV",TRUE,4,987655,"2018-09-29T16:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,12,6
+500,"Traoré","Adama","Traoré",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+501,"Benkovic","Filip","Benkovic",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+502,"Lucas","Lucas","Pérez",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+503,"Montoya","Martín","Montoya",67,"29 Sep 15:00","Gameweek 7","Man City","MCI",FALSE,5,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+504,"Camarasa","Víctor","Camarasa",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+505,"Ayew","Jordan","Ayew",62,"01 Oct 20:00","Gameweek 7","Bournemouth","BOU",FALSE,3,987652,"2018-10-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,7,2
+506,"Mina","Yerry","Mina",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+507,"Bernard","Bernard","Anício Caldeira Duarte",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+508,"André Gomes","André Filipe","Tavares Gomes",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+509,"Rico","Sergio","Rico",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+510,"Bryan","Joe","Bryan",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+511,"Fosu-Mensah","Timothy","Fosu-Mensah",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+512,"Zambo Anguissa","André-Frank","Zambo Anguissa",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+513,"Vietto","Luciano","Vietto",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+514,"Mbenza","Isaac","Mbenza",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+515,"Söyüncü","Caglar","Söyüncü",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+516,"Fernández","Federico","Fernández",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+517,"Quina","Domingos","Quina",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+518,"Carlos Sánchez","Carlos","Sánchez",69,"29 Sep 12:30","Gameweek 7","Man Utd","MUN",TRUE,4,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+519,"Dendoncker","Leander","Dendoncker",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+520,"Grant","Lee","Grant",69,"29 Sep 12:30","Gameweek 7","West Ham","WHU",FALSE,2,987660,"2018-09-29T11:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,14,19
+521,"Cissé","Ibrahima","Cissé",65,"29 Sep 15:00","Gameweek 7","Everton","EVE",FALSE,3,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+522,"Stankovic","Jon Gorenc","Stankovic",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+523,"Amos","Luke","Amos",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+524,"Success","Isaac","Success Ajayi",61,"29 Sep 15:00","Gameweek 7","Arsenal","ARS",FALSE,4,987653,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,18,1
+525,"Hause","Kortney","Hause",70,"29 Sep 15:00","Gameweek 7","Southampton","SOU",TRUE,2,987661,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,16,20
+526,"Zouma","Kurt","Zouma",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+527,"Mendy","Nampalys","Mendy",68,"29 Sep 15:00","Gameweek 7","Newcastle","NEW",FALSE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+528,"Dowell","Kieran","Dowell",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+529,"Muric","Arijanet","Muric",67,"29 Sep 15:00","Gameweek 7","Brighton","BHA",TRUE,2,987658,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,3,13
+530,"Sterry","Jamie","Sterry",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+531,"Longstaff","Sean","Longstaff",68,"29 Sep 15:00","Gameweek 7","Leicester","LEI",TRUE,3,987659,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,11,15
+532,"Browning","Tyias","Browning",65,"29 Sep 15:00","Gameweek 7","Fulham","FUL",TRUE,2,987656,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,9,8
+533,"Schofield","Ryan","Schofield",66,"29 Sep 15:00","Gameweek 7","Spurs","TOT",TRUE,4,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+534,"McNeil","Dwight","McNeil",63,"30 Sep 16:00","Gameweek 7","Cardiff","CAR",FALSE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+535,"Harris","Kadeem","Harris",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+536,"Gazzaniga","Paulo","Gazzaniga",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
+537,"Brian Murphy","Brian","Murphy",63,"30 Sep 16:00","Gameweek 7","Burnley","BUR",TRUE,2,987654,"2018-09-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,4,5
+538,"Whiteman","Alfie","Whiteman",66,"29 Sep 15:00","Gameweek 7","Huddersfield","HUD",FALSE,2,987657,"2018-09-29T14:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,7,17,10
