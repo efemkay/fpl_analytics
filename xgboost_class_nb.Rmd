@@ -1,0 +1,164 @@
+---
+title: "XGBOOST Classification for Fantasy PL"
+author: "Faiz MK"
+date: "10 Oct 2018"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+This [R Markdown](http://rmarkdown.rstudio.com) Notebook is meant for our learning. Here, I try to use XGBOOST for classifying the top 1/3 player of the week. Each week you can choose from 500+ players to form your 15-player team (subject to many other conditions).
+
+The idea is to shortlist and select among only the top 1/3 to form my team. This hypothetically can improve my odds to be above average. There will be further iteration in the future as I have more data and apply more advanced techniques in predicton. 
+
+
+## Data Aggregation & Setups
+I pre-saved the data from FPL website into each week's csv files, and use separate R script to combine all 7 weeks of data.
+This is to ensure code management is easier to understand.
+```{r message=FALSE, warning=FALSE}
+rm(list=ls())
+
+library(utils, quietly=TRUE)   # for read.csv
+library(dplyr, quietly=TRUE)   # for piping %>%
+library(caret, quietly=TRUE)   # for training model
+library(Matrix, quietly=TRUE)  # for sparse.model.matrix
+library(xgboost, quietly=TRUE) # for xgboost model training
+library(scales, quietly=TRUE)  # for rescale()
+library(expss, quietly=TRUE)   # for tab_pivot()
+source("./xgboost model common setup.R")
+```
+
+## Prepping Data for Train-Test
+The data has to be prepped in the right format. XGBOOST model requires matrix data and the best is sparse matrix. Predictors (x's) and target/label (y-hat) need to be defined separately.
+```{r}
+## Prep the train & test dataset, & subset to relevant variables. predictors from common setup
+ixtrain = createDataPartition(df_merge88$tophalf, p=0.8, list=FALSE)
+dftrain = df_merge88[ixtrain, c(predictors, targetclass)]
+dftest  = df_merge88[-ixtrain, c(predictors, targetclass)]
+## Convert predictors as sparse matrix. -1 to remove (Intercept) variable automatically created
+sparse_data_train = sparse.model.matrix(object= (tophalf)~., data = dftrain)[,-1]
+sparse_data_test = sparse.model.matrix(object= (tophalf)~., data = dftest)[,-1]
+## Convert label as numeric. Target variable is also expected as a discrete numeric {0,1} and not factor.
+labeltrn <- as.numeric(dftrain$tophalf)
+labeltst = as.numeric(dftest$tophalf)
+## Create a new xgb.DMatrix
+dtrain = xgb.DMatrix(data=sparse_data_train, label=labeltrn)
+dtest = xgb.DMatrix(data=sparse_data_test, label=labeltst)
+```
+
+## Training the XGBOOST Model
+Training the model for classification. Key parameters set is eta=0.1 (lower learning rate than default for better accuracy, but longer run), subsample=0.3 & colsample_bytree=0.3 (allow the model to utilise min of 0.3 of samples/columns to form a tree), and gamma=5 (still don't what it technically does, but higher number prevent the model from overfitting)
+```{r}
+
+## Train using XGBOOST classification model
+## Cross Validation skip for now... maybe later.
+## Advanced version using xgb.train. Simpler xgboost() avoided as it lack hyper parameters setting
+## Use gamma=5 to regularize the model (before it tends to overfit)
+xgbModel <- xgb.train(data = dtrain
+                      , max_depth = 7
+                      , min_child_weight = 1
+                      , gamma = 5
+                      , eta = 0.1
+                      , nrounds = 700
+                      , early_stopping_rounds = 50
+                      , subsample = 0.3
+                      , colsample_bytree = 0.3
+                      , watchlist = list(train=dtrain, test=dtest)
+                      , verbose = 1
+                      , print_every_n = 10
+                      , objective = "binary:logistic"
+                      , eval_metric = "error"
+                      )
+
+## Predict on Test dataset & define the logistic probability cut off not by the probability itself,
+## but rather based on probability quantile (of >0.66). This is to ensure that the model always pick
+## the top 1/3 of the available players (normally 500+)
+xgbpred <- predict(object=xgbModel, newdata=sparse_data_test)
+xgbprediction = as.numeric(xgbpred>quantile(xgbpred, predprob_quant))
+## Calculate the error rate (wrong prediction over total cases)
+err = mean(xgbprediction!=labeltst)
+paste0("Top 1/3 chosen, i.e. ", sum(xgbprediction), " out of ", length(xgbpred)) %>% print
+paste0("The error rate is ", round(err,3)*100, "%") %>% print
+data.frame(labeltst, prediction=xgbprediction) %>% table %>% print
+
+## View feature importance/influence from the learnt model
+## Feature importance is similar to R gbm package’s relative influence (rel.inf).
+importance_matrix <- xgb.importance(colnames(sparse_data_train)
+                                    , model = xgbModel
+                                    )
+xgb.plot.importance(importance_matrix = importance_matrix[1:20,])
+
+```
+
+## Testing on Actual Game Week
+Now let's test it on real data set i.e. predicting week 08 based on week 01-07 data. Would it fare well?
+```{r}
+
+## Define custom function to get prediction based on given XGBOOST model and transformed dataset
+predict_tophalf = function(dfcurrweek, xgbModel){
+  
+  ## Supply data frame of the current week, mutate some of the variables and subset to
+  ## relevant predictors only
+  dfcurrweek = mutate(dfcurrweek
+                      , special=as.factor(special)
+                      , event_points.x=event_points
+                      )
+  dfcurrweek = dfcurrweek[,predictors]
+  
+  ## Convert predictors as sparse matrix. -1 to remove (Intercept) variable automatically created
+  sparse_newdata = sparse.model.matrix(object= ~., data = dfcurrweek)[,-1]
+
+  ## Prediction. Use median(currweekpred) to ensure I always get half of current week pop
+  currweekpred = predict(object=xgbModel, newdata=sparse_newdata)
+  currweekprediction = as.numeric(currweekpred>quantile(currweekpred, predprob_quant))
+
+  ## cbind prediction outcome as dataframe
+  dfcurrweekpred = cbind(tophalf_pred=currweekprediction, tophalf_conf=currweekpred) %>% as.data.frame
+  return(dfcurrweekpred)
+}
+
+## Read & clean current and next Game Week data i.e. Summary & Fixtures dataset
+df_currsumm = read.csv("./Data/week07_01summary.csv")  # current week
+df_currfixt = read.csv("./Data/week07_04fixture.csv")  # current week next fixture
+df_nextsumm = read.csv("./Data/week08_01summary.csv")  # next week
+## Rescale them all. Do this for each week separately to ensure scale is not skewed by cumulative
+## Then, feed transformed current week data into prediction
+df_currweek = rescale_df(df_currsumm, df_currfixt)
+df_nextweekpred = predict_tophalf(df_currweek, xgbModel)
+
+## cbind current week with the prediction & merge with next week outcome
+df_currweek = cbind(df_currweek, df_nextweekpred)
+df_merge = merging_df(df_currweek,df_nextsumm)
+
+## Print out cross-tab table of Game Week points, segregated by prediction (i.e. tophalf_pred ==0 / ==1)
+df_merge %>%
+  apply_labels(tophalf_pred="Prediction"
+               , event_points.y="Next Week Actual Points") %>%
+  tab_cells(event_points.y) %>%
+  tab_cols(total() %nest% tophalf_pred, tophalf_pred %nest% element_type) %>%
+  tab_stat_cases() %>%
+  tab_pivot
+
+## Let's calculate actual Game Week prediction error rate
+acttop = with(df_merge, (event_points.y>quantile(event_points.y,tophalf_quant)) %>% as.integer)
+## Calculate the error rate (wrong prediction over total cases)
+acterr = mean(df_merge$tophalf_pred!=acttop)
+paste0("The actual GW error rate is ", round(acterr,3)*100, "%") %>% print
+data.frame(actual=acttop, prediction=df_merge$tophalf_pred) %>% table %>% print
+
+
+```
+
+## Conclusion
+We can see that the XGBOOST classification model quite successfully filter out players with Game Week points 1 and below. 
+
+There is a number of false negative (flagging as 0, but getting >=4 points). However, the percentage is less 30% (29 of 103).
+Overtime, with more data and better hyper parameter tuning, hopefully I can improve on its predictive power.
+
+The plan is to use this classification to filter out low-points players and then apply regression prediction as the objective to optimise (a proxy to next Game Week points prediction).
+
+Currently, applying regression directly does not yield satisfactory results due to low accuracy (most likely due to lack of data)
+
+
+*Thank you*
