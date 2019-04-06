@@ -1,0 +1,609 @@
+"player_id","web_name","first_name","second_name","id","kickoff_time_formatted","event_name","opponent_name","opponent_short_name","is_home","difficulty","code","kickoff_time","team_h_score","team_a_score","finished","minutes","provisional_start_time","finished_provisional","event","team_a","team_h"
+1,"Cech","Petr","Cech",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+2,"Leno","Bernd","Leno",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+3,"Koscielny","Laurent","Koscielny",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+4,"Bellerín","Héctor","Bellerín",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+5,"Monreal","Nacho","Monreal",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+6,"Holding","Rob","Holding",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+7,"Mustafi","Shkodran","Mustafi",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+8,"Kolasinac","Sead","Kolasinac",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+9,"Chambers","Calum","Chambers",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+10,"Mavropanos","Konstantinos","Mavropanos",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+11,"Lichtsteiner","Stephan","Lichtsteiner",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+12,"Sokratis","Sokratis","Papastathopoulos",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+13,"Özil","Mesut","Özil",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+14,"Ramsey","Aaron","Ramsey",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+15,"Iwobi","Alex","Iwobi",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+16,"Elneny","Mohamed","Elneny",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+17,"Xhaka","Granit","Xhaka",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+18,"Mkhitaryan","Henrikh","Mkhitaryan",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+19,"Nelson","Reiss","Nelson",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+20,"Maitland-Niles","Ainsley","Maitland-Niles",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+21,"Welbeck","Danny","Welbeck",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+22,"Lacazette","Alexandre","Lacazette",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+23,"Aubameyang","Pierre-Emerick","Aubameyang",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+24,"Begovic","Asmir","Begovic",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+25,"Boruc","Artur","Boruc",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+26,"Francis","Simon","Francis",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+27,"Steve Cook","Steve","Cook",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+28,"Daniels","Charlie","Daniels",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+29,"Adam Smith","Adam","Smith",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+30,"Mings","Tyrone","Mings",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+31,"Aké","Nathan","Aké",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+32,"Simpson","Jack","Simpson",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+33,"Arter","Harry","Arter",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+34,"Pugh","Marc","Pugh",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+35,"Surman","Andrew","Surman",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+36,"Stanislas","Junior","Stanislas",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+37,"Gosling","Dan","Gosling",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+38,"Ibe","Jordon","Ibe",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+39,"Lewis Cook","Lewis","Cook",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+40,"Fraser","Ryan","Fraser",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+41,"Hyndman","Emerson","Hyndman",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+42,"Brooks","David","Brooks",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+43,"Wilson","Callum","Wilson",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+44,"Mousset","Lys","Mousset",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+45,"King","Joshua","King",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+46,"Defoe","Jermain","Defoe",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+47,"Ryan","Mathew","Ryan",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+48,"Dunk","Lewis","Dunk",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+49,"Duffy","Shane","Duffy",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+50,"Bruno","Bruno","Saltor Grau",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+51,"Bong","Gaëtan","Bong",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+52,"Suttner","Markus","Suttner",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+53,"Schelotto","Ezequiel","Schelotto",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+54,"Balogun","Leon","Balogun",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+55,"Knockaert","Anthony","Knockaert",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+56,"Stephens","Dale","Stephens",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+57,"Kayal","Beram","Kayal",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+58,"March","Solomon","March",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+59,"Groß","Pascal","Groß",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+60,"Pröpper","Davy","Pröpper",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+61,"Izquierdo","José Heriberto","Izquierdo Mena",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+62,"Murray","Glenn","Murray",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+63,"Hemed","Tomer","Hemed",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+64,"Baldock","Sam","Baldock",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+65,"Locadia","Jürgen","Locadia",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+66,"Andone","Florin","Andone",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+67,"Heaton","Tom","Heaton",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+68,"Pope","Nick","Pope",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+69,"Lowton","Matthew","Lowton",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+70,"Mee","Ben","Mee",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+71,"Ward","Stephen","Ward",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+72,"Tarkowski","James","Tarkowski",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+73,"Long","Kevin","Long",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+74,"Taylor","Charlie","Taylor",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+75,"Bardsley","Phil","Bardsley",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+76,"Gudmundsson","Johann Berg","Gudmundsson",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+77,"Defour","Steven","Defour",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+78,"Hendrick","Jeff","Hendrick",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+79,"Brady","Robbie","Brady",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+80,"Westwood","Ashley","Westwood",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+81,"Walters","Jonathan","Walters",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+82,"Cork","Jack","Cork",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+83,"Lennon","Aaron","Lennon",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+84,"Vokes","Sam","Vokes",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+85,"Barnes","Ashley","Barnes",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+86,"Wells","Nahki","Wells",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+87,"Wood","Chris","Wood",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+88,"Etheridge","Neil","Etheridge",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+89,"Smithies","Alex","Smithies",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+90,"Morrison","Sean","Morrison",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+91,"Bamba","Sol","Bamba",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+92,"Ecuele Manga","Bruno","Ecuele Manga",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+93,"Connolly","Matthew","Connolly",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+94,"Bennett","Joe","Bennett",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+95,"Peltier","Lee","Peltier",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+96,"Jazz Richards","Ashley Darel Jazz","Richards",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+97,"Halford","Greg","Halford",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+98,"Ralls","Joe","Ralls",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+99,"Hoilett","David Junior","Hoilett",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+100,"Mendez-Laing","Nathaniel","Mendez-Laing",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+101,"Paterson","Callum","Paterson",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+102,"Gunnarsson","Aron","Gunnarsson",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+103,"Pilkington","Anthony","Pilkington",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+104,"Damour","Loïc","Damour",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+105,"Ward","Danny","Ward",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+106,"Murphy","Josh","Murphy",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+107,"Zohore","Kenneth","Zohore",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+108,"Bogle","Omar","Bogle",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+109,"Madine","Gary","Madine",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+110,"Reid","Bobby","Reid",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+111,"Courtois","Thibaut","Courtois",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+112,"Caballero","Willy","Caballero",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+113,"Azpilicueta","César","Azpilicueta",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+114,"Cahill","Gary","Cahill",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+115,"Alonso","Marcos","Alonso",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+116,"David Luiz","David","Luiz Moreira Marinho",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+117,"Moses","Victor","Moses",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+118,"Rüdiger","Antonio","Rüdiger",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+119,"Christensen","Andreas","Christensen",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+120,"Zappacosta","Davide","Zappacosta",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+121,"Emerson","Emerson","Palmieri dos Santos",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+122,"Hazard","Eden","Hazard",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+123,"Fàbregas","Cesc","Fàbregas",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+124,"Willian","Willian","Borges Da Silva",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+125,"Pedro","Pedro","Rodríguez Ledesma",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+126,"Kanté","N'Golo","Kanté",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+127,"Barkley","Ross","Barkley",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+128,"Drinkwater","Daniel","Drinkwater",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+129,"Bakayoko","Tiemoué","Bakayoko",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+130,"Ampadu","Ethan","Ampadu",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+131,"Hudson-Odoi","Callum","Hudson-Odoi",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+132,"Loftus-Cheek","Ruben","Loftus-Cheek",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+133,"Giroud","Olivier","Giroud",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+134,"Morata","Álvaro","Morata",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+135,"Hennessey","Wayne","Hennessey",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+136,"Speroni","Julian","Speroni",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+137,"Guaita","Vicente","Guaita",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+138,"Tomkins","James","Tomkins",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+139,"Dann","Scott","Dann",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+140,"Kelly","Martin","Kelly",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+141,"Schlupp","Jeffrey","Schlupp",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+142,"van Aanholt","Patrick","van Aanholt",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+143,"Sakho","Mamadou","Sakho",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+144,"Riedewald","Jairo","Riedewald",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+145,"Wan-Bissaka","Aaron","Wan-Bissaka",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+146,"Puncheon","Jason","Puncheon",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+147,"McArthur","James","McArthur",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+148,"Sako","Bakary","Sako",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+149,"Townsend","Andros","Townsend",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+150,"Milivojevic","Luka","Milivojevic",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+151,"Zaha","Wilfried","Zaha",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+152,"Benteke","Christian","Benteke",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+153,"Sørloth","Alexander","Sørloth",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+154,"Pickford","Jordan","Pickford",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+155,"Stekelenburg","Maarten","Stekelenburg",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+156,"Baines","Leighton","Baines",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+157,"Coleman","Seamus","Coleman",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+158,"Jagielka","Phil","Jagielka",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+159,"Williams","Ashley","Williams",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+160,"Holgate","Mason","Holgate",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+161,"Kenny","Jonjoe","Kenny",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+162,"Keane","Michael","Keane",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+163,"Martina","Cuco","Martina",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+164,"Walcott","Theo","Walcott",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+165,"Bolasie","Yannick","Bolasie",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+166,"McCarthy","James","McCarthy",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+167,"Schneiderlin","Morgan","Schneiderlin",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+168,"Gueye","Idrissa","Gueye",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+169,"Davies","Tom","Davies",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+170,"Lookman","Ademola","Lookman",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+171,"Klaassen","Davy","Klaassen",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+172,"Sigurdsson","Gylfi","Sigurdsson",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+173,"Vlasic","Nikola","Vlasic",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+174,"Baningime","Beni","Baningime",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+175,"Calvert-Lewin","Dominic","Calvert-Lewin",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+176,"Niasse","Oumar","Niasse",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+177,"Tosun","Cenk","Tosun",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+178,"Bettinelli","Marcus","Bettinelli",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+179,"Button","David","Button",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+180,"Ream","Tim","Ream",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+181,"Odoi","Denis","Odoi",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+182,"Cairney","Tom","Cairney",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+183,"McDonald","Kevin","McDonald",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+184,"Sessegnon","Ryan","Sessegnon",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+185,"Johansen","Stefan","Johansen",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+186,"Ayité","Floyd","Ayité",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+187,"Kebano","Neeskens","Kebano",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+188,"Fonte","Rui Pedro","da Rocha Fonte",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+189,"Kamara","Aboubakar","Kamara",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+190,"Hamer","Ben","Hamer",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+191,"Lössl","Jonas","Lössl",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+192,"Schindler","Christopher","Schindler",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+193,"Löwe","Chris","Löwe",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+194,"Smith","Tommy","Smith",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+195,"Zanka","Mathias","Jorgensen",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+196,"Malone","Scott","Malone",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+197,"Hadergjonaj","Florent","Hadergjonaj",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+198,"Kongolo","Terence","Kongolo",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+199,"Mooy","Aaron","Mooy",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+200,"van La Parra","Rajiv","van La Parra",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+201,"Hogg","Jonathan","Hogg",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+202,"Billing","Philip","Billing",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+203,"Ince","Tom","Ince",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+204,"Williams","Danny","Williams",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+205,"Sabiri","Abdelhamid","Sabiri",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+206,"Pritchard","Alex","Pritchard",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+207,"Sobhi","Ramadan","Sobhi",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+208,"Bacuna","Juninho","Bacuna",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+209,"Quaner","Collin","Quaner",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+210,"Depoitre","Laurent","Depoitre",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+211,"Mounie","Steve","Mounie",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+212,"Kachunga","Elias","Kachunga",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+213,"Schmeichel","Kasper","Schmeichel",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+214,"Jakupovic","Eldin","Jakupovic",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+215,"Morgan","Wes","Morgan",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+216,"Fuchs","Christian","Fuchs",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+217,"Simpson","Danny","Simpson",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+218,"Benalouane","Yohan","Benalouane",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+219,"Chilwell","Benjamin","Chilwell",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+220,"Maguire","Harry","Maguire",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+221,"Pereira","Ricardo Domingos","Barbosa Pereira",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+222,"Evans","Jonny","Evans",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+223,"Mahrez","Riyad","Mahrez",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+224,"Albrighton","Marc","Albrighton",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+225,"Gray","Demarai","Gray",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+226,"Amartey","Daniel","Amartey",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+227,"Ndidi","Wilfred","Ndidi",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+228,"Iborra","Vicente","Iborra",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+229,"James","Matty","James",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+230,"Choudhury","Hamza","Choudhury",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+231,"Silva","Adrien Sebastian","Perruchet Silva",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+232,"Diabaté","Fousseni","Diabaté",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+233,"Maddison","James","Maddison",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+234,"Vardy","Jamie","Vardy",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+235,"Okazaki","Shinji","Okazaki",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+236,"Iheanacho","Kelechi","Iheanacho",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+237,"Mignolet","Simon","Mignolet",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+238,"Karius","Loris","Karius",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+239,"Lovren","Dejan","Lovren",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+240,"Moreno","Alberto","Moreno",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+241,"Clyne","Nathaniel","Clyne",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+242,"Gomez","Joseph","Gomez",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+243,"Matip","Joel","Matip",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+244,"Klavan","Ragnar","Klavan",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+245,"Alexander-Arnold","Trent","Alexander-Arnold",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+246,"van Dijk","Virgil","van Dijk",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+247,"Robertson","Andrew","Robertson",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+248,"Chamberlain","Alex","Oxlade-Chamberlain",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+249,"Henderson","Jordan","Henderson",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+250,"Lallana","Adam","Lallana",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+251,"Mané","Sadio","Mané",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+252,"Wijnaldum","Georginio","Wijnaldum",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+253,"Salah","Mohamed","Salah",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+254,"Milner","James","Milner",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+255,"Fabinho","Fabio Henrique","Tavares",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+256,"Keita","Naby","Keita",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+257,"Firmino","Roberto","Firmino",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+258,"Ings","Danny","Ings",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+259,"Solanke","Dominic","Solanke",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+260,"Ederson","Ederson","Santana de Moraes",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+261,"Bravo","Claudio","Bravo",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+262,"Stones","John","Stones",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+263,"Kompany","Vincent","Kompany",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+264,"Otamendi","Nicolás","Otamendi",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+265,"Walker","Kyle","Walker",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+266,"Danilo","Danilo Luiz","da Silva",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+267,"Mendy","Benjamin","Mendy",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+268,"Laporte","Aymeric","Laporte",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+269,"Delph","Fabian","Delph",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+270,"Sterling","Raheem","Sterling",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+271,"David Silva","David","Silva",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+272,"Fernandinho","Fernando","Luiz Rosa",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+273,"De Bruyne","Kevin","De Bruyne",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+274,"Gündogan","Ilkay","Gündogan",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+275,"Sané","Leroy","Sané",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+276,"Bernardo Silva","Bernardo Mota","Veiga de Carvalho e Silva",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+277,"Foden","Phil","Foden",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+278,"Diaz","Brahim","Diaz",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+279,"Zinchenko","Oleksandr","Zinchenko",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+280,"Agüero","Sergio","Agüero",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+281,"Jesus","Gabriel Fernando","de Jesus",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+282,"De Gea","David","De Gea",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+283,"Romero","Sergio","Romero",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+284,"Smalling","Chris","Smalling",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+285,"Jones","Phil","Jones",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+286,"Shaw","Luke","Shaw",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+287,"Rojo","Marcos","Rojo",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+288,"Valencia","Antonio","Valencia",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+289,"Darmian","Matteo","Darmian",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+290,"Blind","Daley","Blind",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+291,"Bailly","Eric","Bailly",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+292,"Lindelöf","Victor","Lindelöf",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+293,"Young","Ashley","Young",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+294,"Dalot","José Diogo","Dalot Teixeira",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+295,"Sánchez","Alexis","Sánchez",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+296,"Matic","Nemanja","Matic",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+297,"Mata","Juan","Mata",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+298,"Fellaini","Marouane","Fellaini",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+299,"Herrera","Ander","Herrera",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+300,"Lingard","Jesse","Lingard",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+301,"Martial","Anthony","Martial",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+302,"Pogba","Paul","Pogba",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+303,"McTominay","Scott","McTominay",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+304,"Fred","Frederico","Rodrigues de Paula Santos",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+305,"Rashford","Marcus","Rashford",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+306,"Lukaku","Romelu","Lukaku",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+307,"Elliot","Robert","Elliot",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+308,"Darlow","Karl","Darlow",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+309,"Dubravka","Martin","Dubravka",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+310,"Yedlin","DeAndre","Yedlin",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+311,"Clark","Ciaran","Clark",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+312,"Lascelles","Jamaal","Lascelles",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+313,"Dummett","Paul","Dummett",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+314,"Lejeune","Florian","Lejeune",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+315,"Manquillo","Javier","Manquillo",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+316,"Mbemba","Chancel","Mbemba",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+317,"Ritchie","Matt","Ritchie",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+318,"Shelvey","Jonjo","Shelvey",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+319,"Diamé","Mohamed","Diamé",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+320,"Atsu","Christian","Atsu",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+321,"Murphy","Jacob","Murphy",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+322,"Merino","Mikel","Merino",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+323,"Hayden","Isaac","Hayden",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+324,"Ki Sung-yueng","Sung-yueng","Ki",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+325,"Gayle","Dwight","Gayle",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+326,"Pérez","Ayoze","Pérez",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+327,"Joselu","Jose Luis","Mato Sanmartín",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+328,"McCarthy","Alex","McCarthy",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+329,"Forster","Fraser","Forster",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+330,"Bertrand","Ryan","Bertrand",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+331,"Yoshida","Maya","Yoshida",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+332,"Cédric","Cédric","Soares",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+333,"Stephens","Jack","Stephens",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+334,"McQueen","Sam","McQueen",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+335,"Bednarek","Jan","Bednarek",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+336,"Hoedt","Wesley","Hoedt",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+337,"Davis","Steven","Davis",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+338,"Ward-Prowse","James","Ward-Prowse",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+339,"Oriol Romeu","Oriol","Romeu Vidal",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+340,"Højbjerg","Pierre-Emile","Højbjerg",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+341,"Boufal","Sofiane","Boufal",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+342,"Sims","Joshua","Sims",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+343,"Redmond","Nathan","Redmond",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+344,"Lemina","Mario","Lemina",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+345,"Armstrong","Stuart","Armstrong",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+346,"Elyounoussi","Mohamed","Elyounoussi",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+347,"Long","Shane","Long",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+348,"Austin","Charlie","Austin",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+349,"Gabbiadini","Manolo","Gabbiadini",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+350,"Carrillo","Guido","Carrillo",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+351,"Lloris","Hugo","Lloris",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+352,"Vorm","Michel","Vorm",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+353,"Alderweireld","Toby","Alderweireld",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+354,"Rose","Danny","Rose",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+355,"Vertonghen","Jan","Vertonghen",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+356,"Davies","Ben","Davies",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+357,"Trippier","Kieran","Trippier",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+358,"Walker-Peters","Kyle","Walker-Peters",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+359,"Sánchez","Davinson","Sánchez",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+360,"Aurier","Serge","Aurier",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+361,"Dier","Eric","Dier",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+362,"Dembélé","Mousa","Dembélé",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+363,"Lamela","Erik","Lamela",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+364,"Eriksen","Christian","Eriksen",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+365,"Alli","Bamidele","Alli",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+366,"Wanyama","Victor","Wanyama",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+367,"Son","Heung-Min","Son",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+368,"Winks","Harry","Winks",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+369,"Sissoko","Moussa","Sissoko",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+370,"Lucas Moura","Lucas","Rodrigues Moura da Silva",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+371,"Llorente","Fernando","Llorente",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+372,"Kane","Harry","Kane",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+373,"Gomes","Heurelho","Gomes",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+374,"Dahlberg","Pontus","Dahlberg",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+375,"Kaboul","Younes","Kaboul",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+376,"Cathcart","Craig","Cathcart",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+377,"Prödl","Sebastian","Prödl",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+378,"Holebas","José","Holebas",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+379,"Britos","Miguel","Britos",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+380,"Kabasele","Christian","Kabasele",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+381,"Janmaat","Daryl","Janmaat",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+382,"Mariappa","Adrian","Mariappa",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+383,"Kiko Femenía","Francisco","Femenía Far",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+384,"Zeegelaar","Marvin","Zeegelaar",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+385,"Navarro","Marc","Navarro",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+386,"Masina","Adam","Masina",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+387,"Chalobah","Nathaniel","Chalobah",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+388,"Cleverley","Tom","Cleverley",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+389,"Capoue","Etienne","Capoue",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+390,"Doucouré","Abdoulaye","Doucouré",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+391,"Pereyra","Roberto","Pereyra",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+392,"Hughes","Will","Hughes",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+393,"Richarlison","Richarlison","de Andrade",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+394,"Deulofeu","Gerard","Deulofeu",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+395,"Gray","Andre","Gray",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+396,"Deeney","Troy","Deeney",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+397,"Okaka","Stefano","Okaka",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+398,"Sinclair","Jerome","Sinclair",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+399,"Adrián","Adrián","San Miguel del Castillo",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+400,"Fabianski","Lukasz","Fabianski",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+401,"Reid","Winston","Reid",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+402,"Cresswell","Aaron","Cresswell",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+403,"Ogbonna","Angelo","Ogbonna",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+404,"Byram","Sam","Byram",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+405,"Zabaleta","Pablo","Zabaleta",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+406,"Rice","Declan","Rice",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+407,"Oxford","Reece","Oxford",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+408,"Fredericks","Ryan","Fredericks",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+409,"Diop","Issa","Diop",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+410,"Masuaku","Arthur","Masuaku",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+411,"Noble","Mark","Noble",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+412,"Kouyaté","Cheikhou","Kouyaté",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+413,"Obiang","Pedro","Obiang",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+414,"Lanzini","Manuel","Lanzini",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+415,"Antonio","Michail","Antonio",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+416,"Fernandes","Edimilson","Fernandes",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+417,"Arnautovic","Marko","Arnautovic",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+418,"Carroll","Andy","Carroll",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+419,"Chicharito","Javier","Hernández Balcázar",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+420,"Hugill","Jordan","Hugill",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+421,"Ruddy","John","Ruddy",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+422,"Norris","Will","Norris",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+423,"Boly","Willy","Boly",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+424,"Douglas","Barry","Douglas",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+425,"Doherty","Matt","Doherty",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+426,"Saïss","Romain","Saïss",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+427,"Bennett","Ryan","Bennett",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+428,"Batth","Danny","Batth",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+429,"Miranda","Roderick Jefferson","Gonçalves Miranda",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+430,"Coady","Conor","Coady",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+431,"Vinagre","Rúben Gonçalo","Silva Nascimento Vinagre",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+432,"Jota","Diogo","Jota",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+433,"Neves","Rúben Diogo","da Silva Neves",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+434,"Cavaleiro","Ivan","Cavaleiro",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+435,"Costa","Hélder","Costa",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+436,"Enobakhare","Bright","Enobakhare",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+437,"Jiménez","Raúl","Jiménez",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+438,"Bonatini","Bonatini Lohner Maia","Bonatini",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+439,"Steele","Jason","Steele",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+440,"Bernardo","Bernardo","Fernandes da Silva Junior",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+441,"Ward","Joel","Ward",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+442,"Jach","Jaroslaw","Jach",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+443,"Souaré","Pape","Souaré",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+444,"Wickham","Connor","Wickham",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+445,"Foster","Ben","Foster",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+446,"Sema","Ken","Sema",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+447,"Wilshere","Jack","Wilshere",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+448,"Gibbs-White","Morgan","Gibbs-White",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+449,"Mir","Rafa","Mir",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+450,"Torreira","Lucas","Torreira",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+451,"Guendouzi","Matteo","Guendouzi",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+452,"Gunn","Angus","Gunn",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+453,"Yarmolenko","Andriy","Yarmolenko",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+454,"Patrício","Rui Pedro","dos Santos Patrício",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+455,"Le Marchand","Maxime","Le Marchand",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+456,"Seri","Jean Michael","Seri",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+457,"Ward","Danny","Ward",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+458,"Kenedy","Robert Kenedy","Nunes do Nascimento",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+459,"Jorginho","Jorge Luiz","Frello Filho",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+460,"Christie","Cyrus","Christie",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+461,"Durm","Erik","Durm",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+462,"Shaqiri","Xherdan","Shaqiri",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+463,"Vestergaard","Jannik","Vestergaard",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+464,"Balbuena","Fabián","Balbuena",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+465,"Felipe Anderson","Felipe Anderson","Pereira Gomes",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+466,"Bissouma","Yves","Bissouma",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+467,"Cunningham","Greg","Cunninghamm",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+468,"Alisson","Alisson","Ramses Becker",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+469,"Mirallas","Kevin","Mirallas",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+470,"Sandro","Sandro","Ramírez",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+471,"Diakhaby","Adama","Diakhaby",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+472,"Sturridge","Daniel","Sturridge",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+473,"Rico","Diego","Rico",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+474,"Fabri","Fabricio","Agosto Ramírez",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+475,"Moutinho","João Filipe Iria","Santos Moutinho",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+476,"Jahanbakhsh","Alireza","Jahanbakhsh",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+477,"Kaikai","Sullay","Kaikai",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+478,"Schürrle","André","Schürrle",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+479,"Targett","Matt","Targett",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+480,"Mitrovic","Aleksandar","Mitrovic",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+481,"Pereira","Andreas","Pereira",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+482,"Schär","Fabian","Schär",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+483,"Jonny","Jonathan","Castro Otto",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+484,"Digne","Lucas","Digne",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+485,"Lindegaard","Anders","Lindegaard",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+486,"Meyer","Max","Meyer",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+487,"Mawson","Alfie","Mawson",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+488,"Muto","Yoshinori","Muto",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+489,"Snodgrass","Robert","Snodgrass",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+490,"Hart","Joe","Hart",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+491,"Gibson","Ben","Gibson",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+492,"Ghezzal","Rachid","Ghezzal",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+493,"Rondón","Salomón","Rondón",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+494,"Lerma","Jefferson","Lerma",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+495,"Vydra","Matej","Vydra",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+496,"Abraham","Tammy","Abraham",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+497,"Nkoudou","Georges-Kévin","Nkoudou",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+498,"Kepa","Kepa","Arrizabalaga",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+499,"Kovacic","Mateo","Kovacic",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+500,"Traoré","Adama","Traoré",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+501,"Benkovic","Filip","Benkovic",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+502,"Lucas","Lucas","Pérez",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+503,"Montoya","Martín","Montoya",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+504,"Camarasa","Víctor","Camarasa",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+505,"Ayew","Jordan","Ayew",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+506,"Mina","Yerry","Mina",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+507,"Bernard","Bernard","Anício Caldeira Duarte",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+508,"André Gomes","André Filipe","Tavares Gomes",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+509,"Rico","Sergio","Rico",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+510,"Bryan","Joe","Bryan",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+511,"Fosu-Mensah","Timothy","Fosu-Mensah",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+512,"Zambo Anguissa","André-Frank","Zambo Anguissa",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+513,"Vietto","Luciano","Vietto",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+514,"Mbenza","Isaac","Mbenza",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+515,"Söyüncü","Çaglar","Söyüncü",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+516,"Fernández","Federico","Fernández",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+517,"Quina","Domingos","Quina",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+518,"Carlos Sánchez","Carlos","Sánchez",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+519,"Dendoncker","Leander","Dendoncker",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+520,"Grant","Lee","Grant",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+521,"Cissé","Ibrahima","Cissé",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+522,"Stankovic","Jon Gorenc","Stankovic",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+523,"Amos","Luke","Amos",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+524,"Success","Isaac","Success Ajayi",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+525,"Hause","Kortney","Hause",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+526,"Zouma","Kurt","Zouma",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+527,"Mendy","Nampalys","Mendy",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+528,"Dowell","Kieran","Dowell",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+529,"Muric","Arijanet","Muric",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+530,"Sterry","Jamie","Sterry",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+531,"Longstaff","Sean","Longstaff",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+532,"Browning","Tyias","Browning",320,"30 Mar 17:30","Gameweek 32","West Ham","WHU",FALSE,3,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+533,"Schofield","Ryan","Schofield",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+534,"McNeil","Dwight","McNeil",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+535,"Harris","Kadeem","Harris",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+536,"Gazzaniga","Paulo","Gazzaniga",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+537,"Brian Murphy","Brian","Murphy",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+538,"Whiteman","Alfie","Whiteman",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+539,"Diangana","Grady","Diangana",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+540,"Skipp","Oliver","Skipp",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+541,"Steven Sessegnon","Zeze Steven","Sessegnon",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+542,"Martínez","Emiliano","Martínez",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+543,"Origi","Divock","Origi",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+544,"Wilmot","Ben","Wilmot",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+545,"Smith-Rowe","Emile","Smith-Rowe",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+546,"Medley","Zech","Medley",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+547,"Powell","Joe","Powell",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+548,"Coventry","Conor","Coventry",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+549,"Foyth","Juan","Foyth",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+550,"Obafemi","Michael","Obafemi",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+551,"Gyokeres","Viktor","Gyokeres",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+552,"Nketiah","Edward","Nketiah",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+553,"Woodman","Frederick","Woodman",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+554,"Peñaranda","Adalberto","Peñaranda",319,"30 Mar 15:00","Gameweek 32","Man Utd","MUN",FALSE,4,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+555,"Giles","Ryan John","Giles",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+556,"Valery","Yan","Valery",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+557,"Camacho","Rafael","Camacho",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+558,"Knight","Josh","Knight",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+559,"White","Ben","White",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+560,"Xande Silva","Alexandre Nascimento","Costa Silva",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+561,"Eyoma","Timothy","Eyoma",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+562,"Johnson","Tyreke","Johnson",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+563,"Saka","Bukayo","Saka",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+564,"Koiki","Abd-Al-Ali Morakinyo Olaposi","Koiki",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+565,"Ramsay","Kayne","Ramsay",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+566,"Willock","Joseph","Willock",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+567,"Kilman","Max","Kilman",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+568,"Gomes","Angel","Gomes",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+569,"Nasri","Samir","Nasri",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+570,"Slattery","Callum","Slattery",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+571,"Barnes","Harvey","Barnes",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+572,"Sanders","Max","Sanders",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+573,"Healey","Rhys","Healey",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+574,"Gallagher","Sam","Gallagher",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+575,"Babel","Ryan","Babel",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+576,"Tupper","Joe","Tupper",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+577,"Roberts","Callum","Roberts",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+578,"Sterling","Kazaiah","Sterling",318,"31 Mar 16:30","Gameweek 32","Liverpool","LIV",FALSE,5,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+579,"Higuaín","Gonzalo","Higuaín",314,"31 Mar 14:05","Gameweek 32","Cardiff","CAR",FALSE,2,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+580,"Mepham","Chris","Mepham",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+581,"Jenkinson","Carl","Jenkinson",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+582,"Burn","Dan","Burn",312,"30 Mar 15:00","Gameweek 32","Southampton","SOU",TRUE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+583,"Benson","Josh","Benson",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+584,"Perri","Lucas","Perri",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+585,"Grant","Karlan","Grant",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+586,"Suárez","Denis","Suárez",311,"01 Apr 20:00","Gameweek 32","Newcastle","NEW",TRUE,2,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+587,"Almirón","Miguel","Almirón",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+588,"Barreca","Antonio","Barreca",311,"01 Apr 20:00","Gameweek 32","Arsenal","ARS",FALSE,4,987902,"2019-04-01T19:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,15,1
+589,"Bacuna","Leandro","Bacuna",314,"31 Mar 14:05","Gameweek 32","Chelsea","CHE",TRUE,4,987905,"2019-03-31T13:05:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,6,5
+590,"Crouch","Peter","Crouch",313,"30 Mar 15:00","Gameweek 32","Wolves","WOL",TRUE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+591,"Tielemans","Youri","Tielemans",317,"30 Mar 15:00","Gameweek 32","Bournemouth","BOU",TRUE,2,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+592,"Batshuayi","Michy","Batshuayi",315,"30 Mar 15:00","Gameweek 32","Huddersfield","HUD",TRUE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+593,"Nordtveit","Håvard","Nordtveit",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+594,"Markovic","Lazar","Markovic",316,"30 Mar 12:30","Gameweek 32","Man City","MCI",TRUE,4,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+595,"Jones","Alfie","Jones",312,"30 Mar 15:00","Gameweek 32","Brighton","BHA",FALSE,2,987903,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,16,3
+596,"John","Cameron","John",313,"30 Mar 15:00","Gameweek 32","Burnley","BUR",FALSE,3,987904,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,20,4
+597,"Jones","Curtis","Jones",318,"31 Mar 16:30","Gameweek 32","Spurs","TOT",TRUE,4,987909,"2019-03-31T15:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,17,12
+598,"Coleman","Joel","Coleman",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+599,"Surridge","Sam","Surridge",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+600,"Taylor","Kyle","Taylor",317,"30 Mar 15:00","Gameweek 32","Leicester","LEI",FALSE,3,987908,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,2,11
+601,"Duhaney","Demeaco","Duhaney",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+602,"Garner","James","Garner",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+603,"Chong","Tahith","Chong",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
+604,"Sandler","Philippe","Sandler",316,"30 Mar 12:30","Gameweek 32","Fulham","FUL",FALSE,2,987907,"2019-03-30T12:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,13,9
+605,"Johnson","Ben","Johnson",320,"30 Mar 17:30","Gameweek 32","Everton","EVE",TRUE,2,987911,"2019-03-30T17:30:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,8,19
+606,"Daly","Matthew","Daly",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+607,"Rowe","Aaron","Rowe",315,"30 Mar 15:00","Gameweek 32","Crystal Palace","CRY",FALSE,2,987906,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,10,7
+608,"Greenwood","Mason","Greenwood",319,"30 Mar 15:00","Gameweek 32","Watford","WAT",TRUE,3,987910,"2019-03-30T15:00:00Z",NA,NA,FALSE,0,FALSE,FALSE,32,18,14
